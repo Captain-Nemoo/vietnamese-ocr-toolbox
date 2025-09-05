@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import itertools
 import math
 import cv2
-from pylsd.lsd import lsd
+from pylsd2 import lsd
 
 import argparse
 import os
