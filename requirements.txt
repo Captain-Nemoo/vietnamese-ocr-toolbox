@@ -2,7 +2,7 @@ pyyaml>=5.1
 tensorboard
 pycocotools
 pyclipper
-Polygon3
+shapely
 colorlog
 ocrd-fork-pylsd==0.0.3 
 einops==0.2.0
